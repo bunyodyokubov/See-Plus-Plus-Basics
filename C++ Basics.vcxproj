@@ -128,6 +128,11 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="C++Basics.cpp" />
+    <ClCompile Include="Conditional Statements.cpp" />
+    <ClCompile Include="LogicalOperators.cpp" />
+    <ClCompile Include="Loops.cpp" />
+    <ClCompile Include="multiplicationTable.cpp" />
+    <ClCompile Include="SimFirstNnaturalNumbers.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
