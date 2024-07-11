@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="C++Basics.cpp" />
     <ClCompile Include="Conditional Statements.cpp" />
+    <ClCompile Include="Increament and Decrement.cpp" />
     <ClCompile Include="LogicalOperators.cpp" />
     <ClCompile Include="Loops.cpp" />
     <ClCompile Include="multiplicationTable.cpp" />
